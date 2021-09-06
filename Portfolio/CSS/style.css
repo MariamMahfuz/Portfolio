@@ -1,0 +1,163 @@
+html {
+    scroll-behavior: "smooth";
+   
+}
+* {
+    margin: 0px;
+    padding: 0, 10px;
+    box-sizing: border-box;  
+    width:100%;
+   
+}
+
+
+body{
+    padding-right:70px;
+    padding-left:70px;
+}
+
+
+header{
+    background-image: url(../Images/header-bg.png);
+}
+
+
+.row{
+    padding: 50px;
+}
+
+
+.heading{
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+
+.jack{
+    font-size: 42px;
+    color: rgb(194, 48, 97);
+    font-weight: 700;
+    line-height: 30px;
+}
+
+
+.desc{
+    margin-top: 70px;
+    color:rgb(131, 120, 120);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+
+.hire-btn{
+    width:120px;
+    background-image: linear-gradient(to right, rgb(231, 13, 115) , rgb(224, 30, 78));
+}
+
+
+.peter img{
+    margin-top: 55px;
+}
+
+
+.bg{
+background-image: url(../Images/biography-bg.png);
+}
+
+
+.cv-btn{
+    width:150px;
+    background-image: linear-gradient(to right, rgb(231, 13, 115) , rgb(224, 30, 78));
+}
+
+
+.peter-dream img{
+    margin: 100px;
+ 
+}
+
+
+latest_bg{
+    background-image: url(../Images/latest-work-bg.png);
+}
+
+
+.latest-heading{
+        font-size: 40px;
+        margin-top: 50px;
+        margin-bottom:70px;
+        text-align: center;
+        font-weight:600;
+}
+
+
+.footer-bg{
+    background-image: url(../Images/footer-bg.png);   
+}
+
+
+.rvw{
+    padding: 30px;
+}
+
+
+.review-heading{
+    font-size: 40px;
+    margin-bottom:70px;
+    text-align: center;
+    font-weight:600;
+}
+
+
+.Bruce{
+    color: black;
+    font-weight: 650;
+    font-size: 1.1rem;
+}
+
+
+.alies{
+    color:rgb(131, 120, 120);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+
+.review{
+    font-weight: 600;
+}
+
+.msg{
+
+    /* width:200px; */
+    background-image: linear-gradient(to right, rgb(231, 13, 115) , rgb(224, 30, 78));
+    color:white;
+    width: 340px;
+    padding:25px;
+    border-radius: 10px;
+
+}
+
+
+.message{
+    font-weight:550;
+}
+
+
+.mail a{
+    text-decoration: none;
+    font-size: 1.3rem;
+     color:white;
+     font-weight:5900;
+     text-align: center;
+}
+
+
+.footer{
+    color:rgb(97, 97, 97);
+    font-size: 12px;
+    font-weight: 490;
+}
+
+
